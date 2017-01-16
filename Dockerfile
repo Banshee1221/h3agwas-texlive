@@ -2,7 +2,7 @@ FROM centos:centos7
 
 MAINTAINER Eugene de Beste
 
-# Install the packages needed to download and extract plink
+# Install the packages needed to work with latex
 
 RUN yum install -y texlive-base \ 
     texlive-tex \ 
