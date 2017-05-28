@@ -16,4 +16,6 @@ RUN yum install -y texlive-base \
     texlive-latex-fonts \ 
     texlive-latex-bin \ 
     texlive-pdftex-def \ 
-    texlive-fancyhdr
+    texlive-fancyhdr \
+    texlive-ifluatex \
+    which
